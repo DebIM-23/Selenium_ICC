@@ -1,0 +1,5 @@
+search_term,expected_result,product_name
+MacBook,success,MacBook
+iPhone,success,iPhone
+Canon EOS 5D,success,Canon EOS 5D
+ItemDoesNotExistAtAll123,failure,None

@@ -1,0 +1,4 @@
+email,password,expected_result
+ascxorbic@example.com,W8bw3vb!qLQ8Q8,success
+nonexistent_acc@example.com,InvalidSecret999,failure
+astrotest1234@example.com,W8bw3vb!qLQ8Q8,success
