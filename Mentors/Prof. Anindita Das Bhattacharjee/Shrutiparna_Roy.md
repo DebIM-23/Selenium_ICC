@@ -20,7 +20,7 @@ This is the main repository that holds all the project folders together. It cont
 4. Syllabus_Tasks
 
   
-
+Directory Description
 
 1. Capstone Project
 
